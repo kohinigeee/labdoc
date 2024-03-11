@@ -53,7 +53,7 @@
 ### 数理計画問題
 | トピック内容 | トピック名 |
 |-------------|-------------|
-| Travel Salesman Problem (TSP)     | tsp   |
+| Traveling Salesman Problem (TSP)     | tsp   |
 | Vehicle Routing Problem (VRP)     | vrp   |
 | | |
 
